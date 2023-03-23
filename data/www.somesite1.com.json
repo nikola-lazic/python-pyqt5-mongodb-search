@@ -1,0 +1,97 @@
+[
+  {
+    "meta-title": "Title example 1",
+    "meta-url": "www.somesite1.com/folder/page/457",
+    "meta-published-time": "2022-02-11T13:08:35+00:00",
+    "meta-site-name": "SITE NAME 1",
+    "urlsfound": [
+      "https://thisisalink.com/1321313213adasd4789",
+      "https://thisisalink.com/123323232dasd89",
+      "https://thisisalink.com/12sdasada4789",
+      "https://thisisalink.com/12hfhfhad54789"
+    ],
+    "dateCrawled": "11.02.2022.",
+    "imported": "No"
+  },
+  {
+    "meta-title": "Title example 2",
+    "meta-url": "www.somesite1.com/folder/folder/pageoopp55",
+    "meta-published-time": "2022-02-11T13:08:35+00:00",
+    "meta-site-name": "SITE NAME 1",
+    "urlsfound": [
+      "https://thisisalink.com/ddsadsa54",
+      "https://thisisalink.com/1dsadsad289",
+      "https://thisisalink.com/12dasdas2adsa89",
+      "https://thisisalink.com/12dsadsad42dsa89",
+      "https://thisisalink.com/12dsadsa21dsa89",
+      "https://thisisalink.com/122dsad1321gdsfdsa89"
+    ],
+    "dateCrawled": "11.02.2022.",
+    "imported": "Yes"
+  },
+  {
+    "meta-title": "Title example 3",
+    "meta-url": "www.somesite1.com/folder/pageuuyyii",
+    "meta-published-time": "2022-02-11T13:08:35+00:00",
+    "meta-site-name": "SITE NAME 1",
+    "urlsfound": [],
+    "dateCrawled": "11.02.2022.",
+    "imported": "No"
+  },
+  {
+    "meta-title": "Title example 4",
+    "meta-url": "www.somesite1.com/page/page/pageyyyy",
+    "meta-published-time": "2022-02-11T13:08:35+00:00",
+    "meta-site-name": "SITE NAME 1",
+    "urlsfound": [
+      "https://thisisalink1.com/122221gdsfdsa89",
+      "https://thisisalinddk1.com/1sdsfdsa89",
+      "https://thisisaliddnk1.com/122dadsfdsa89"
+    ],
+    "dateCrawled": "11.02.2022.",
+    "imported": "No"
+  },
+  {
+    "meta-title": "Test-1",
+    "meta-url": "www.somesite1.com/page/page22155",
+    "meta-published-time": "",
+    "meta-site-name": "SITE NAME 1",
+    "urlsfound": [
+      "link-test-12",
+      "link-test-13",
+      "link-test-14",
+      "link-test-15"
+    ],
+    "dateCrawled": "11.02.2022.",
+    "imported": "No"
+  },
+  {
+    "meta-title": "Test-2",
+    "meta-url": "www.somesite1.com/page1/page332",
+    "meta-published-time": "",
+    "meta-site-name": "SITE NAME 1",
+    "urlsfound": [
+      "link-test55",
+      "link-test-66",
+      "link-test-888",
+      "link111-test-999"
+    ],
+    "dateCrawled": "11.02.2022.",
+    "imported": "Yes"
+  },
+  {
+    "meta-title": "Test-3",
+    "meta-url": "www.somesite1.com/page3/page522",
+    "meta-published-time": "",
+    "meta-site-name": "SITE NAME 1",
+    "urlsfound": [
+      "link-test-1a",
+      "link-test-2a",
+      "link-test-3a",
+      "link-test-4a",
+      "link-test-5a"
+    ],
+    "dateCrawled": "11.02.2022.",
+    "imported": "Yes"
+  }
+]
